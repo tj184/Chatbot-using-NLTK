@@ -1,0 +1,87 @@
+Slow internet
+A highly common, and hugely frustrating problem, patchy or slow internet connections can be the result of a number of things (software or hardware related). Before you contact your internet service provider (ISP), try following these steps:
+
+1 – Restart your modem and WiFi router
+Quite often WiFi issues can be resolved with a simple reset of your modem and router. By completely powering off (ideally for a few minutes) your caches will be cleared and you’ll be reassigned a new IP address, which will hopefully solve the problem.
+
+No luck?
+
+2 – Take steps to improve your connection and signal reach
+If you’ve completed this process and haven’t seen an improvement you should take steps to optimise your connection and signal reach. You can do this by:
+
+Finding the optimal placement for your router
+Combining frequency bands
+Disconnecting any unneeded external devices
+A more in depth look at this can be found in our ‘WiFi Solutions For Your Home and Business‘ blog.
+
+Still no luck?
+
+3 – Contact your ISP
+If you’ve reached this point, and have reset, reconfigured and optimised your WiFi system to no avail it may be time to contact your internet service provider. Bad weather, network upgrades and malfunctioning masts can lead to external issues which are, unfortunately, beyond your control.
+
+If you find you frequently have internet issues, it may be time to switch to a more reliable service. Speak to us today if you’d like to discuss your business broadband.
+
+TOP TIP: To keep your internet browser performing optimally you should clear cookies and internet temporary files frequently.
+
+Contact Us
+Blue screen of death (BSoD)
+The blue screen of death occurs on Windows operating systems in the event of a critical failure of either software or hardware. Best case scenario, it can be a relatively easy fix, worst case scenario it can result in the loss of any files and data you were currently working on. Follow these steps to try to resolve the error:
+
+1 – Update your systems and drivers
+The BSoD is in many circumstances caused by a hardware malfunction or issues with the driver software. By accessing Control Panel > Device Manager it’s possible to identify issues with any connected devices by the warning icon. If you see this warning icon it’s likely that the driver is outdated, or was improperly installed.
+
+Search online for the relevant system and driver updates and install. Ensure only to install updates compatible with your particular operating system.
+
+No luck?
+
+2 – Scan for viruses
+The BSoD can also be caused by some types of malware or virus. Perform a virus scan to identify whether or not this could be the case. Ensure to use reliable anti virus software. Want to know more? Check out our antivirus offerings for businesses.
+
+Not a virus?
+
+3 – Reset your basic input / output system (BIOS)
+An outdated or misconfigured BIOS can sometimes lead to system error messages such as the BSoD. To update your BIOS you’ll need to:
+
+Download the latest BIOS from the manufacturer’s website
+Restart your computer and enter the new BIOS
+Use the relevant menus to update the BIOS
+If this hasn’t worked…
+
+4 – Clean reboot
+At this point your last port of call before calling in a professional is to completely reboot your entire system. This can be done by accessing Settings > Update and Security > Recovery and then selecting Reset this PC.
+
+Computer is slow or unresponsive
+The dreaded ‘freeze’, which inevitably happens right in the middle of a particularly important task. It might be tempting to just reboot your computer, but doing so puts you at risk of losing any unsaved data. Before you do that, try the following:
+
+1 – Close any unresponsive programs
+Too many background programs, a lack of RAM or even spyware can all result in your computer operating more slowly than usual, and even becoming completely unresponsive. Try closing and background programs and applications by Control + Alt + Delete > Task Manager > Select Programs > End task.
+
+Not back up to speed yet?
+
+2 – Clean up the system
+The next thing you can do is clean up the disk system. To do this you’ll need to; Disk Cleanup > Select the relevant drive > Select the file types you want to erase > Select OK.
+
+Removing large files, unused apps, software and bloatware can help to improve the speed of your PC.
+
+Still not satisfied?
+
+3 – Speak to an IT professional
+
+As part of our ad hoc IT support services we offer our clients regular network health checks to ensure your computer is always running optimally. We also have an experienced team of experts on hand to provide on site and in office repairs and maintenance for your IT hardware and printers. Read more about our repair services.
+
+Computer won't turn on: Check the power supply, unplug the computer, remove the battery, and then plug it back in. 
+ 
+Slow internet: Restart your router or modem, clear your cache and internet history, and check for cookies. 
+ 
+Computer is frozen: Restart Windows Explorer, restart Finder, or press and hold the power button. 
+ 
+Applications are running slowly: Close and reopen the application, update the application, or check the Task Manager to see which programs are using too many resources. 
+ 
+Mouse or keyboard isn't working: Make sure it's plugged in correctly. 
+ 
+Sound isn't working: Check the volume level, audio player controls, and cables. 
+ 
+Blue Screen of Death: Update drivers or perform a system restore. 
+ 
+Long boot time: Disable programs that start up with Windows, update drivers and the device, or install an SSD. 
+ 
